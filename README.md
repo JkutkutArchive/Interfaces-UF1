@@ -43,3 +43,4 @@ o el badge que entrega Oracle tras completar el Java Explorer, de repaso
 
 ## Java Explorer:
 ![Java Explorer title](res/img/javaExplorer.png)
+![Java Explorer title](res/img/javaExplorer2.png)
