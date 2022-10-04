@@ -30,6 +30,6 @@ public class Ej1 {
             }
         }
         f = 32f + ( 9f * c / 5f);
-        System.out.printf("La temperatura de hoy en grados centígrados es %.2f\n", f);
+        System.out.printf("La temperatura de hoy en grados Fahrenheit es %.2f\n", f);
     }
 }
